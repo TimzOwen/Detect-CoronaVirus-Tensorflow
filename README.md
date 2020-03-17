@@ -6,3 +6,7 @@ Using TensorFlow to detect Corona Virus
 
 With Datasets from #Kaggle. the model is bale to train from picturess of the virus .
 
+# training rate of from the model 
+
+![codv19](https://user-images.githubusercontent.com/34624703/76854353-f7fdab00-685f-11ea-983c-a49baf48a0cc.PNG)
+
